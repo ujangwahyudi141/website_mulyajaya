@@ -1,0 +1,120 @@
+#header	{
+	width : 100%;
+	height: 180px;
+	border: 1px solid black;
+	text-align : center;
+	background : #44D924;
+	position : realtive;
+	}
+
+*{margin:0; padding:0;}
+#header > .logo {
+	width : 280px;
+	height: 100%;
+	}
+
+#nav_menu {
+			width : 100%;
+			height : 30px;
+			border : 1px solid black;
+			margin : 0px;
+			padding : 0;
+			background : #44D924; 
+			text-align : center;
+			position : relative;
+			z-index : 1;
+			}
+
+#menu {
+	font-family : arial;
+	font-size : 14px;
+	color : white;
+	text-decoration : none;
+	background : #44D924;
+	display : inline-table;
+	padding-right : 25px;
+	text-align : center;
+	position : relative;
+	}
+
+#menu > a {
+	font-family : arial;
+	font-size : 14px;
+	color : white;
+	text-decoration : none;
+	background : #44D924;
+	display : inline-table;
+	}
+
+/*#menu a:hover{
+		background : #285E1D;
+		border-bottom: 1px solid red;
+		}*/
+#menu:hover{
+		background : #285E1D;
+		border-bottom: 1px solid red;
+		}
+#kelembagaan{
+   width: 100%;
+   height : 450px;
+   border : 1px solid black;
+ 
+   }
+
+#mennu1 { display : none;
+margin-left : -5px;
+color : white;
+width: 180px;
+position : relative;
+}
+#mennu1 td { 
+	color : white;
+	width: 180px;
+	position : relative;
+	padding-top : 10px;
+}
+#mennu1 td a{ 
+	color : white;
+	text-decoration : none;
+	font-family : arial;
+	font-size : 14px;
+	padding : 10px;
+	width : 158px;
+	
+}
+#menu:hover > table{
+position : absolute;
+background : #44D924; 
+color : white;
+display : block;
+}
+#mennu1 td :hover{
+display : inline-table;
+background : #285E1D;
+}
+
+#box {
+	text-align : center;
+	width : 100%;
+	height : 250px;
+	background :#44D924;
+}
+#box img{
+padding : 20px;
+}
+#konten {
+ width : 100%;
+ height : 600px;
+ }
+ 
+  #kiri {
+  width : 50%;
+  float:left;
+  padding-left:20px;
+  }
+ #kades {
+  width:40%;
+  float: right;
+  padding-right: 60px;
+   padding-top: 5px;
+  }

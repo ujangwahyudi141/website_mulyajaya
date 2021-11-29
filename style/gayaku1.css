@@ -1,0 +1,48 @@
+.kotak{
+		padding: 15px;
+				font-size: 18px;
+				background: #F83E2C;
+				color: #fff;
+				width: 370px;
+				height: 80px;
+				border-radius: 15px;
+				margin: 0 auto;
+				margin-bottom: 20px;
+				padding-bottom: 50px;
+				z-index: 9;
+		}
+		
+		.tampil_modal {
+    padding-top: 1em;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    display: block;
+  }
+				.box{
+				padding: 15px;
+				font-size: 18px;
+				background: #FFB3AB;
+				color: #fff;
+				width: 370px;
+				height: 150px;
+				border-radius: 15px;
+				margin: 0 auto;
+				margin-bottom: 20px;
+				padding-bottom: 50px;
+				z-index: 9;
+				
+				}
+	
+	  .headbox {width: 100%;
+				background:#c0392b;
+				padding: 15px;
+				margin-left: -15px;
+				font-size: 18px;
+				margin-top: -15px;
+				border-top-left-radius: 15px;
+				border-top-right-radius: 15px;}
+div.font{color:white;}
